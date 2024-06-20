@@ -92,15 +92,15 @@ Implementare ove necessario costruttori, metodi getter e setter, o altri eventua
     
 12) Implementare un metodo main dove:
 
-.Un oggetto GasStation viene allocato.
+	.Un oggetto GasStation viene allocato.
 
-.Una lista di vehicles di almeno 2 oggetti Vehicle viene allocata con all'interno almeno un oggetto ElectricCar ed un oggetto DieselCar
+	.Una lista di vehicles di almeno 2 oggetti Vehicle viene allocata con all'interno almeno un oggetto ElectricCar ed un oggetto DieselCar
 
-.Un oggetto Diesel ed un oggetto ChargePod vengono allocati ed aggiunti a GasStation tramite il metodo insertFuel
+	.Un oggetto Diesel ed un oggetto ChargePod vengono allocati ed aggiunti a GasStation tramite il metodo insertFuel
 
-.Viene fatto il refill di tutti i fuels tramite il metodo rechargeStation
+	.Viene fatto il refill di tutti i fuels tramite il metodo rechargeStation
 
-.Tutti i Vehicle all'interno della lista vehicles vengono riforniti tramite il metodo chargeVehicle di GasStation.
+	.Tutti i Vehicle all'interno della lista vehicles vengono riforniti tramite il metodo chargeVehicle di GasStation.
 
 
 	
